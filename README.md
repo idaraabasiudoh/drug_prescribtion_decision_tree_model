@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## Introduction
-This repository contains a machine learning project focused on classifying drugs based on patient characteristics using a Decision Tree classifier. The project leverages Python and popular data science libraries such as scikit-learn, pandas, and matplotlib.
+This repository contains a machine learning project focused on classifying drugs based on patient characteristics using a Decision Tree classifier. The project uses Python and popular data science libraries such as scikit-learn, pandas, and matplotlib.
 
 ## Objectives
 The primary objectives of this project are:
