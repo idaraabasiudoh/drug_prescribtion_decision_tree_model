@@ -1,4 +1,4 @@
-# Drug Classification Using Decision Tree
+# Drug Prescription Decision Tree Classifier
 
 ## Table of Contents
 - [Introduction](#introduction)
